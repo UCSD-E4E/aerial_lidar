@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "velodyne")
+set(velodyne_MAINTAINER "Jack O'Quin <jack.oquin@gmail.com>")
+set(velodyne_DEPRECATED "")
+set(velodyne_VERSION "1.2.0")
+set(velodyne_BUILD_DEPENDS )
+set(velodyne_RUN_DEPENDS "velodyne_driver" "velodyne_msgs" "velodyne_pointcloud")
+set(velodyne_BUILDTOOL_DEPENDS "catkin")

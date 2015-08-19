@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "velodyne_msgs")
+set(velodyne_msgs_MAINTAINER "Jack O'Quin <jack.oquin@gmail.com>")
+set(velodyne_msgs_DEPRECATED "")
+set(velodyne_msgs_VERSION "1.2.0")
+set(velodyne_msgs_BUILD_DEPENDS "message_generation" "std_msgs")
+set(velodyne_msgs_RUN_DEPENDS "message_runtime" "std_msgs")
+set(velodyne_msgs_BUILDTOOL_DEPENDS "catkin")

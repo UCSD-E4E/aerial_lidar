@@ -1,0 +1,8 @@
+prefix=/home/raymond/catkin_ws/devel
+
+Name: laser_tfs
+Description: Description of laser_tfs
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/raymond/catkin_ws/devel/lib 
+Requires: 

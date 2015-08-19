@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "velodyne_pointcloud")
+set(velodyne_pointcloud_MAINTAINER "Jack O'Quin <jack.oquin@gmail.com>")
+set(velodyne_pointcloud_DEPRECATED "")
+set(velodyne_pointcloud_VERSION "1.2.0")
+set(velodyne_pointcloud_BUILD_DEPENDS "angles" "nodelet" "pcl_conversions" "pcl_ros" "pluginlib" "roscpp" "roslib" "sensor_msgs" "tf" "velodyne_driver" "velodyne_msgs" "yaml-cpp" "dynamic_reconfigure" "roslaunch" "rostest")
+set(velodyne_pointcloud_RUN_DEPENDS "angles" "nodelet" "pcl_ros" "pluginlib" "python-yaml" "roscpp" "roslib" "sensor_msgs" "tf" "velodyne_driver" "velodyne_msgs" "yaml-cpp" "dynamic_reconfigure")
+set(velodyne_pointcloud_BUILDTOOL_DEPENDS "catkin")
