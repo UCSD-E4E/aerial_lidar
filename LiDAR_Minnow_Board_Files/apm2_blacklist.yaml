@@ -1,0 +1,11 @@
+plugin_blacklist:
+- '3dr_radio'
+- 'safety_area'
+- 'setpoint_*'
+- 'px4flow'
+- 'image_pub'
+- 'vision_*'
+- 'visualization'
+- 'mocap_*'
+- 'ftp'
+- 'local_position'
