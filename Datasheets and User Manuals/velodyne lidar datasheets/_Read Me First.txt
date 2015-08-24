@@ -1,0 +1,19 @@
+Dear Velodyne User,
+
+Thank you very much for your purchase of Velodyne's LiDAR Puck. 
+
+Please be advised that the user manual for this product is not completely finished at this point in time. However in order to get you started as soon as possible please find on this memory stick several documents that should help you with that. 
+
+Most of the operation of the VLP-16 is very similar to the HDL-32E, hence we have included the HDL-32E user manual on this memory stick. 
+
+Differences between HDL-32E and the VLP-16 are mainly in the packet structure which are outlined in the document labeled HDL-32E and VLP-16 Packet Structure and the associated timing table (EXCEL) for both products. 
+
+Once you are ready to start, we recommend to install VeloView. Set change your IP address to manually selected (for example to 192.168.1. 70) and disable any firewall settings. 
+
+Open VeloView, choose VLP-16 and look at the live sensor stream. Further information regarding VeloView can be found here: 
+http://www.paraview.org/Wiki/VeloView
+
+In case of any problems, questions or comments, you can contact Velodyne's LiDAR team at:
+VLP16@velodyne.com or call us at +1 408 465 2800. 
+
+-Velodyne LiDAR Team-
